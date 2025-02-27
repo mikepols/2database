@@ -14,14 +14,20 @@ Below is a list of the papers from which the experimental structures used as sta
 	- (<i>rac</i>-1NEA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2015614](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2015614)]
 - Y. Dang *et al.*, *J. Phys. Chem. Lett.*, 11, 1689–1696 (2020) , DOI: [`10.1021/acs.jpclett.9b03718`](https://doi.org/10.1021/acs.jpclett.9b03718).
 	- (<i>rac</i>-MBA)<sub>2</sub>PbI<sub>4</sub> [[CCDC:1877052](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=1877052)]
-- J. Son *et al.*, *Nat. Commun.*, 14, 3124 (2023) , DOI: [`10.1038/s41467-023-38927-2`](https://doi.org/10.1038/s41467-023-38927-2).
+- M.K. Jana *et al.*, *Nat. Commun.*, 12, 4982 (2021), DOI: [`10.1038/s41467-021-25149-7`](https://doi.org/10.1038/s41467-021-25149-7).
+	- (<i>R</i>-4-Cl-MBA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2095482](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2095482)]
+	- (<i>S</i>-1-Me-HA)<sub>2</sub>PbI<sub>4</sub> [[CCDC:2095483](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2095483)]
+	- (<i>S</i>-4-NO<sub>2</sub>-MBA)<sub>2</sub>PbBr<sub>4</sub>⋅H<sub>2</sub>O [[CCDC:2095484](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2095484)]
+	- (<i>S</i>-2-Me-BuA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2095485](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2095485)]
+	- (<i>S</i>-4-NH<sub>3</sub>-MBA)<sub>2</sub>PbI<sub>4</sub> [[CCDC:2095486](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2095486)]
+- J. Son *et al.*, *Nat. Commun.*, 14, 3124 (2023), DOI: [`10.1038/s41467-023-38927-2`](https://doi.org/10.1038/s41467-023-38927-2).
 	- (<i>S</i>-2NEA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2178604](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2178604)]
 	- (<i>R</i>-2NEA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2178605](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2178605)]
 	- (<i>rac</i>-2NEA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2178606](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2178606)]
 
 ## Computational settings
 
-The experimental structures were optimized using density functional theory (DFT) calculations. These DFT calculations were performed in the Vienna Ab-initio Simulation Package (VASP) [1-3]. The electron-electron exchange correlation (XC) interactions were modelled using a variety of XC functionals: PBE [4], PBE+D3 [5], PBE+D3(BJ) [6], PBEsol [7], and SCAN [8]. The projector-augmented wave (PAW) pseudopotentials [9] treated the following electrons: H (1s<sup>1</sup>), C (2s<sup>2</sup>2p<sup>2</sup>), N (2s<sup>2</sup>2p<sup>3</sup>), Br (4s<sup>2</sup>4p<sup>5</sup>), I (5s<sup>2</sup>5p<sup>5</sup>), Pb (6s<sup>2</sup>6p<sup>2</sup>) as valence electrons. The cutoff energy for the plane wave basis set was set to 500 eV in all calculations, combined with convergence criteria for the energies and forces of 10<sup>-5</sup> eV and 10<sup>-2</sup> eV/Å, respectively. The reciprocal space was sampled using Γ-centered <i>k</i>-meshes [10]. In optimizing the experimental crystal structures all atomic positions, the cell shape and cell volume were allowed to change.
+The experimental structures were optimized using density functional theory (DFT) calculations. These DFT calculations were performed in the Vienna Ab-initio Simulation Package (VASP) [1-3]. The electron-electron exchange correlation (XC) interactions were modelled using a variety of XC functionals: PBE [4], PBE+D3 [5], PBE+D3(BJ) [6], PBEsol [7], and SCAN [8]. The projector-augmented wave (PAW) pseudopotentials [9] treated the following electrons: H (1s<sup>1</sup>), C (2s<sup>2</sup>2p<sup>2</sup>), N (2s<sup>2</sup>2p<sup>3</sup>), O (2s<sup>2</sup>2p<sup>4</sup>), Br (4s<sup>2</sup>4p<sup>5</sup>), I (5s<sup>2</sup>5p<sup>5</sup>), Pb (6s<sup>2</sup>6p<sup>2</sup>) as valence electrons. The cutoff energy for the plane wave basis set was set to 500 eV in all calculations, combined with convergence criteria for the energies and forces of 10<sup>-5</sup> eV and 10<sup>-2</sup> eV/Å, respectively. The reciprocal space was sampled using Γ-centered <i>k</i>-meshes [10]. In optimizing the experimental crystal structures all atomic positions, the cell shape and cell volume were allowed to change.
 
 ## References
 
