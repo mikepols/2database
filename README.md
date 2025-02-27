@@ -2,7 +2,7 @@
 
 A collection of two-dimensional (2D) halide perovskite structures, used in a variety of works studying the chirality and dynamics of 2D perovskites. Among others, these structures were used to:
 1. Explore the structural chirality of 2D halide perovskites at <i>T</i> = 0K and at finite temperatures. [DOI: [`10.1021/acs.jpclett.4c01629`](https://doi.org/10.1021/acs.jpclett.4c01629)]
-2. Discover chiral phonons in chiral 2D halide perovskites [DOI: [`arXiv:2411.17225`](https://arxiv.org/abs/2411.17225)]]
+2. Discover chiral phonons in chiral 2D halide perovskites [DOI: [`arXiv:2411.17225`](https://arxiv.org/abs/2411.17225)]
 
 ## Computational settings
 
