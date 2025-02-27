@@ -1,6 +1,12 @@
 # 2database
 
-A collection of two-dimensional (2D) halide perovskite structures, used in a variety of works studying the chirality and dynamics of 2D perovskites.
+A collection of two-dimensional (2D) halide perovskite structures, used in a variety of works studying the chirality and dynamics of 2D perovskites. Among others, these structures were used to:
+1. Explore the structural chirality of 2D halide perovskites at <i>T</i> = 0K and at finite temperatures. [DOI: [`10.1021/acs.jpclett.4c01629`](https://doi.org/10.1021/acs.jpclett.4c01629)]
+2. Discover chiral phonons in chiral 2D halide perovskites [DOI: [`arXiv:2411.17225`](https://arxiv.org/abs/2411.17225)]]
+
+## Computational settings
+
+The experimental structures were optimized using density functional theory (DFT) calculations. These DFT calculations were performed in the Vienna Ab-initio Simulation Package (VASP) [1-3]. The electron-electron exchange correlation (XC) interactions were modelled using a variety of XC functionals: PBE [4], PBE+D3 [5], PBE+D3(BJ) [6], PBEsol [7], and SCAN [8]. The projector-augmented wave (PAW) pseudopotentials [9] treated the following electrons: H (1s<sup>1</sup>), C (2s<sup>2</sup>2p<sup>2</sup>), N (2s<sup>2</sup>2p<sup>3</sup>), O (2s<sup>2</sup>2p<sup>4</sup>), Br (4s<sup>2</sup>4p<sup>5</sup>), I (5s<sup>2</sup>5p<sup>5</sup>), Pb (6s<sup>2</sup>6p<sup>2</sup>) as valence electrons. The cutoff energy for the plane wave basis set was set to 500 eV in all calculations, combined with convergence criteria for the energies and forces of 10<sup>-5</sup> eV and 10<sup>-2</sup> eV/Å, respectively. The reciprocal space was sampled using Γ-centered <i>k</i>-meshes [10]. In optimizing the experimental crystal structures all atomic positions, the cell shape and cell volume were allowed to change.
 
 ## Experimental structures
 
@@ -29,9 +35,9 @@ Below is a list of the papers from which the experimental structures used as sta
 - M. Menahem *et al.*, *ACS Nano*, 15, 10153–10162 (2021), DOI: [`10.1021/acsnano.1c02022`](https://doi.org/10.1021/acsnano.1c02022).
 	- PEA<sub>2</sub>PbI<sub>4</sub> [[CCDC:2018893](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2018893)]
 
-## Computational settings
+## Usage
 
-The experimental structures were optimized using density functional theory (DFT) calculations. These DFT calculations were performed in the Vienna Ab-initio Simulation Package (VASP) [1-3]. The electron-electron exchange correlation (XC) interactions were modelled using a variety of XC functionals: PBE [4], PBE+D3 [5], PBE+D3(BJ) [6], PBEsol [7], and SCAN [8]. The projector-augmented wave (PAW) pseudopotentials [9] treated the following electrons: H (1s<sup>1</sup>), C (2s<sup>2</sup>2p<sup>2</sup>), N (2s<sup>2</sup>2p<sup>3</sup>), O (2s<sup>2</sup>2p<sup>4</sup>), Br (4s<sup>2</sup>4p<sup>5</sup>), I (5s<sup>2</sup>5p<sup>5</sup>), Pb (6s<sup>2</sup>6p<sup>2</sup>) as valence electrons. The cutoff energy for the plane wave basis set was set to 500 eV in all calculations, combined with convergence criteria for the energies and forces of 10<sup>-5</sup> eV and 10<sup>-2</sup> eV/Å, respectively. The reciprocal space was sampled using Γ-centered <i>k</i>-meshes [10]. In optimizing the experimental crystal structures all atomic positions, the cell shape and cell volume were allowed to change.
+The structures can be freely used, however, it is greatly encouraged to reference the experimental work these structures were taken from.
 
 ## References
 
