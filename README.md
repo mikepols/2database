@@ -14,6 +14,10 @@ Below is a list of the papers from which the experimental structures used as sta
 	- (<i>rac</i>-1NEA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2015614](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2015614)]
 - Y. Dang *et al.*, *J. Phys. Chem. Lett.*, 11, 1689–1696 (2020) , DOI: [`10.1021/acs.jpclett.9b03718`](https://doi.org/10.1021/acs.jpclett.9b03718).
 	- (<i>rac</i>-MBA)<sub>2</sub>PbI<sub>4</sub> [[CCDC:1877052](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=1877052)]
+- J. Son *et al.*, *Nat. Commun.*, 14, 3124 (2023) , DOI: [`10.1038/s41467-023-38927-2`](https://doi.org/10.1038/s41467-023-38927-2).
+	- (<i>S</i>-2NEA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2178604](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2178604)]
+	- (<i>R</i>-2NEA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2178605](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2178605)]
+	- (<i>rac</i>-2NEA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2178606](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2178606)]
 
 ## Computational settings
 
