@@ -9,12 +9,15 @@ Below is a list of the papers from which the experimental structures used as sta
 - M.K. Jana *et al.*, *Nat. Commun.*, 11, 4699 (2020) , DOI: [`10.1038/s41467-020-18485-7`](https://doi.org/10.1038/s41467-020-18485-7).
 	- (<i>S</i>-MBA)<sub>2</sub>PbI<sub>4</sub> [[CCDC:2015617](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2015617)]
 	- (<i>R</i>-MBA)<sub>2</sub>PbI<sub>4</sub> [Mirror of (<i>S</i>-MBA)<sub>2</sub>PbI<sub>4</sub>]
+	- (<i>S</i>-1NEA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2015618](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2015618)]
+	- (<i>R</i>-1NEA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2015620](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2015620)]
+	- (<i>rac</i>-1NEA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2015614](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2015614)]
 - Y. Dang *et al.*, *J. Phys. Chem. Lett.*, 11, 1689–1696 (2020) , DOI: [`10.1021/acs.jpclett.9b03718`](https://doi.org/10.1021/acs.jpclett.9b03718).
 	- (<i>rac</i>-MBA)<sub>2</sub>PbI<sub>4</sub> [[CCDC:1877052](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=1877052)]
 
 ## Computational settings
 
-The experimental structures were optimized using density functional theory (DFT) calculations. These DFT calculations were performed in the Vienna Ab-initio Simulation Package (VASP) [1-3]. The electron-electron exchange correlation (XC) interactions were modelled using a variety of XC functionals: PBE [4], PBE+D3 [5], PBE+D3(BJ) [6], PBEsol [7], and SCAN [8]. The projector-augmented wave (PAW) pseudopotentials [9] treated the following electrons: H (1s<sup>1</sup>), C (2s<sup>2</sup>2p<sup>2</sup>), N (2s<sup>2</sup>2p<sup>3</sup>), I (5s<sup>2</sup>5p<sup>5</sup>), Pb (6s<sup>2</sup>6p<sup>2</sup>) as valence electrons. The cutoff energy for the plane wave basis set was set to 500 eV in all calculations, combined with convergence criteria for the energies and forces of 10<sup>-5</sup> eV and 10<sup>-2</sup> eV/Å, respectively. The reciprocal space was sampled using Γ-centered <i>k</i>-meshes [10]. In optimizing the experimental crystal structures all atomic positions, the cell shape and cell volume were allowed to change.
+The experimental structures were optimized using density functional theory (DFT) calculations. These DFT calculations were performed in the Vienna Ab-initio Simulation Package (VASP) [1-3]. The electron-electron exchange correlation (XC) interactions were modelled using a variety of XC functionals: PBE [4], PBE+D3 [5], PBE+D3(BJ) [6], PBEsol [7], and SCAN [8]. The projector-augmented wave (PAW) pseudopotentials [9] treated the following electrons: H (1s<sup>1</sup>), C (2s<sup>2</sup>2p<sup>2</sup>), N (2s<sup>2</sup>2p<sup>3</sup>), Br (4s<sup>2</sup>4p<sup>5</sup>), I (5s<sup>2</sup>5p<sup>5</sup>), Pb (6s<sup>2</sup>6p<sup>2</sup>) as valence electrons. The cutoff energy for the plane wave basis set was set to 500 eV in all calculations, combined with convergence criteria for the energies and forces of 10<sup>-5</sup> eV and 10<sup>-2</sup> eV/Å, respectively. The reciprocal space was sampled using Γ-centered <i>k</i>-meshes [10]. In optimizing the experimental crystal structures all atomic positions, the cell shape and cell volume were allowed to change.
 
 ## References
 
