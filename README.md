@@ -11,3 +11,20 @@ Below is a list of the papers from which the experimental structures used as sta
 	- (<i>R</i>-MBA)<sub>2</sub>PbI<sub>4</sub> [Mirror of (<i>S</i>-MBA)<sub>2</sub>PbI<sub>4</sub>]
 - Y. Dang *et al.*, *J. Phys. Chem. Lett.*, 11, 1689–1696 (2020) , DOI: [`10.1021/acs.jpclett.9b03718`](https://doi.org/10.1021/acs.jpclett.9b03718).
 	- (<i>rac</i>-MBA)<sub>2</sub>PbI<sub>4</sub> [[CCDC:1877052](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=1877052)]
+
+## Computational settings
+
+The experimental structures were optimized using density functional theory (DFT) calculations. These DFT calculations were performed in the Vienna Ab-initio Simulation Package (VASP) [1-3]. The electron-electron exchange correlation (XC) interactions were modelled using a variety of XC functionals: PBE [4], PBE+D3 [5], PBE+D3(BJ) [6], PBEsol [7], and SCAN [8]. The projector-augmented wave (PAW) pseudopotentials [9] treated the following electrons: H (1s<sup>1</sup>), C (2s<sup>2</sup>2p<sup>2</sup>), N (2s<sup>2</sup>2p<sup>3</sup>), I (5s<sup>2</sup>5p<sup>5</sup>), Pb (6s<sup>2</sup>6p<sup>2</sup>) as valence electrons. The cutoff energy for the plane wave basis set was set to 500 eV in all calculations, combined with convergence criteria for the energies and forces of 10<sup>-5</sup> eV and 10<sup>-2</sup> eV/Å, respectively. The reciprocal space was sampled using Γ-centered <i>k</i>-meshes [10]. In optimizing the experimental crystal structures all atomic positions, the cell shape and cell volume were allowed to change.
+
+## References
+
+1. Kresse *et al.*, *Phys. Rev. B*, 49, 14251 (1994) , DOI: [`10.1103/PhysRevB.49.14251`](https://doi.org/10.1103/PhysRevB.49.14251).
+2. Kresse *et al.*, *Comput. Mater. Sci.*, 6, 15-50 (1996) , DOI: [`10.1016/0927-0256(96)00008-0`](https://doi.org/10.1016/0927-0256(96)00008-0).
+3. Kresse *et al.*, *Phys. Rev. B*, 54, 11169 (1996) , DOI: [`10.1103/PhysRevB.54.11169`](https://doi.org/10.1103/PhysRevB.54.11169).
+4. J.P. Perdew *et al.*, *Phys. Rev. Lett.*, 77, 3865 (1996) , DOI: [`10.1103/PhysRevLett.77.3865`](https://doi.org/10.1103/PhysRevLett.77.3865).
+5. S. Grimme *et al.*, *J. Comput. Chem.*, 32, 1456-1465 (2011) , DOI: [`10.1002/jcc.21759`](https://doi.org/10.1002/jcc.21759).
+6. S. Grimme *et al.*, *J. Chem. Phys.*, 132, 154104 (2010) , DOI: [`10.1063/1.3382344`](https://doi.org/10.1063/1.3382344).
+7. J.P. Perdew *et al.*, *Phys. Rev. Lett.*, 100, 136406 (2008) , DOI: [`10.1103/PhysRevLett.100.136406`](https://doi.org/10.1103/PhysRevLett.100.136406).
+8. J. Sun. *et al.*, *Phys. Rev. Lett.*, 115, 036402 (2015) , DOI: [`10.1103/PhysRevLett.115.036402`](https://doi.org/10.1103/PhysRevLett.115.036402).
+9. Kresse *et al.*, *Phys. Rev. B*, 59, 1758 (1999) , DOI: [`10.1103/PhysRevLett.115.036402`](https://doi.org/10.1103/PhysRevLett.115.036402).
+10. H.J. Monkhorst *et al.*, *Phys. Rev. B*, 13, 5188 (1976) , DOI: [`10.1103/PhysRevB.13.5188`](https://doi.org/10.1103/PhysRevB.13.5188).
