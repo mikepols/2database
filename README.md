@@ -24,6 +24,10 @@ Below is a list of the papers from which the experimental structures used as sta
 	- (<i>S</i>-2NEA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2178604](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2178604)]
 	- (<i>R</i>-2NEA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2178605](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2178605)]
 	- (<i>rac</i>-2NEA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2178606](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2178606)]
+- K.Z. Du *et al.*, *Inorg. Chem.*, 56, 9291–9302 (2017), DOI: [`10.1021/acs.inorgchem.7b01094`](https://doi.org/10.1021/acs.inorgchem.7b01094).
+	- PEA<sub>2</sub>PbI<sub>4</sub> [[CCDC:1542461](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=1542461)]
+- M. Menahem *et al.*, *ACS Nano*, 15, 10153–10162 (2021), DOI: [`10.1021/acsnano.1c02022`](https://doi.org/10.1021/acsnano.1c02022).
+	- PEA<sub>2</sub>PbI<sub>4</sub> [[CCDC:2018893](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2018893)]
 
 ## Computational settings
 
