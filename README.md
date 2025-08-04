@@ -2,7 +2,8 @@
 
 A collection of two-dimensional (2D) halide perovskite structures, used in a variety of works studying the chirality and dynamics of 2D perovskites. Among others, these structures were used to:
 1. Explore the structural chirality of 2D halide perovskites at <i>T</i> = 0K and at finite temperatures. [DOI: [`10.1021/acs.jpclett.4c01629`](https://doi.org/10.1021/acs.jpclett.4c01629)]
-2. Discover chiral phonons in chiral 2D halide perovskites [DOI: [`arXiv:2411.17225`](https://arxiv.org/abs/2411.17225)]
+2. Discover chiral phonons in chiral 2D halide perovskites [DOI: [`10.1021/acs.nanolett.5c01708`](https://doi.org/10.1021/acs.nanolett.5c01708)]
+3. Investigate the effect of metal cations on the structural and dynamic chirality of 2D halide perovskites [DOI: [`arXiv:2508.00158`](https://arxiv.org/abs/2508.00158)]
 
 ## Computational settings
 
@@ -12,13 +13,17 @@ The experimental structures were optimized using density functional theory (DFT)
 
 Below is a list of the papers from which the experimental structures used as starting point for the structural optimizations are from. For every 2D perovskite, the number behind the structure references the CCDC (Cambridge Crystallographic Data Centre) number from the crystallographic database.
 
-- M.K. Jana *et al.*, *Nat. Commun.*, 11, 4699 (2020) , DOI: [`10.1038/s41467-020-18485-7`](https://doi.org/10.1038/s41467-020-18485-7).
+- M.K. Jana *et al.*, *Nat. Commun.*, 11, 4699 (2020), DOI: [`10.1038/s41467-020-18485-7`](https://doi.org/10.1038/s41467-020-18485-7).
 	- (<i>S</i>-MBA)<sub>2</sub>PbI<sub>4</sub> [[CCDC:2015617](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2015617)]
 	- (<i>R</i>-MBA)<sub>2</sub>PbI<sub>4</sub> [Mirror of (<i>S</i>-MBA)<sub>2</sub>PbI<sub>4</sub>]
 	- (<i>S</i>-1NEA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2015618](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2015618)]
 	- (<i>R</i>-1NEA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2015620](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2015620)]
 	- (<i>rac</i>-1NEA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2015614](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2015614)]
-- Y. Dang *et al.*, *J. Phys. Chem. Lett.*, 11, 1689–1696 (2020) , DOI: [`10.1021/acs.jpclett.9b03718`](https://doi.org/10.1021/acs.jpclett.9b03718).
+- H. Lu *et al.*, *J. Am. Chem. Soc.*, 142, 13030-13040 (2020), DOI: [`10.1021/jacs.0c03899`](https://doi.org/10.1021/jacs.0c03899).
+	- (<i>S</i>-MBA)<sub>2</sub>SnI<sub>4</sub> [[CCDC:1994338](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=1994338)]
+	- (<i>R</i>-MBA)<sub>2</sub>SnI<sub>4</sub> [[CCDC:1994337](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=1994337)]
+	- (<i>rac</i>-MBA)<sub>2</sub>SnI<sub>4</sub> [[CCDC:1994336](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=1994336)]
+- Y. Dang *et al.*, *J. Phys. Chem. Lett.*, 11, 1689–1696 (2020), DOI: [`10.1021/acs.jpclett.9b03718`](https://doi.org/10.1021/acs.jpclett.9b03718).
 	- (<i>rac</i>-MBA)<sub>2</sub>PbI<sub>4</sub> [[CCDC:1877052](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=1877052)]
 - M.K. Jana *et al.*, *Nat. Commun.*, 12, 4982 (2021), DOI: [`10.1038/s41467-021-25149-7`](https://doi.org/10.1038/s41467-021-25149-7).
 	- (<i>R</i>-4-Cl-MBA)<sub>2</sub>PbBr<sub>4</sub> [[CCDC:2095482](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2095482)]
@@ -33,7 +38,7 @@ Below is a list of the papers from which the experimental structures used as sta
 - K.Z. Du *et al.*, *Inorg. Chem.*, 56, 9291–9302 (2017), DOI: [`10.1021/acs.inorgchem.7b01094`](https://doi.org/10.1021/acs.inorgchem.7b01094).
 	- PEA<sub>2</sub>PbI<sub>4</sub> [[CCDC:1542461](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=1542461)]
 - M. Menahem *et al.*, *ACS Nano*, 15, 10153–10162 (2021), DOI: [`10.1021/acsnano.1c02022`](https://doi.org/10.1021/acsnano.1c02022).
-	- PEA<sub>2</sub>PbI<sub>4</sub> [[CCDC:2018893](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2018893)]
+	- BA<sub>2</sub>PbI<sub>4</sub> [[CCDC:2018893](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2018893)]
 
 ## Usage
 
